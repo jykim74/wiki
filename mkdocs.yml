@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: JKLab WIKI
+site_url: https://jykim.github.io/wiki
+theme:
+  name: readthedocs
+nav:
+ - Home: index.md
+ - BerEditor: bereditor.md
+ - CertMan: certman.md
+ - CryptokiMan: cryptokiman.md
+ - About: about.md
