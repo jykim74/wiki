@@ -1,10 +1,36 @@
 site_name: JKLab WIKI
 site_url: https://jykim.github.io/wiki
+site_description: PKI Tools
+site_author: JayKim
+
+repo_url: https://github.com/jykim74/wiki/
+edit_uri: blob/master/docs/
+
 theme:
-  name: readthedocs
+  name: mkdocs
+  analytics:
+    gtag: G-287S0CKBNS
 nav:
  - Home: index.md
- - BerEditor: bereditor.md
- - CertMan: certman.md
- - CryptokiMan: cryptokiman.md
+ - BerEditor:
+   - BerEditor: bereditor/index.md
+   - Manual: https://jykim74.github.io/bereditor_manual
+   - Release: bereditor/release.md
+   - Q&A: https://github.com/jykim74/BerEditor/discussions 
+ - CertMan:
+   - CertMan: certman/
+   - Manual: https://jykim74.github.io/certman_manual
+   - Release: certman/release.md
+   - Q&A: https://github.com/jykim74/CertMan/discussions 
+ - CryptokiMan:
+   - CryptokiMan: cryptokiman/
+   - Manual: https://jykim74.github.io/cryptokiman_manual
+   - Release: cryptokiman/release.md
+   - Q&A: https://github.com/jykim74/CryptokiMan/discussions 
  - About: about.md
+
+extra_css:
+  - css/extra.css
+
+copyright: Copyright &copy; 2014 <a href="https://jykim74.tistory.com">JayKim</a>, Maintained by the <a href="/about/release-notes/#maintenance-team">JKLab</a>.
+
