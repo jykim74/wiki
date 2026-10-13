@@ -1,3 +1,7 @@
+## Version 2.9.6
+- CertMan system supports loading the trust list.
+- Trust checks are performed by default during certificate validation.
+
 ## Version 2.9.4
 - Fixed LDAP import issues and several critical errors
 

@@ -11,9 +11,9 @@
 
 - You can download the programs in below icon.
 
-<a href="https://jykim74.tistory.com/36" target="_blank"><img src="https://img.shields.io/badge/BerEditor-006600?style=for-the-badge&logo=Qt&logoColor=white"></a>
-<a href="https://jykim74.tistory.com/37" target="_blank"><img src="https://img.shields.io/badge/CertMan-0094F5?style=for-the-badge&logo=Qt&logoColor=white"></a>
-<a href="https://jykim74.tistory.com/38" target="_blank"><img src="https://img.shields.io/badge/CryptokiMan-512BD4?style=for-the-badge&logo=Qt&logoColor=white"></a>
+<a href="bereditor/" target="_blank"><img src="https://img.shields.io/badge/BerEditor-006600?style=for-the-badge&logo=Qt&logoColor=white"></a>
+<a href="certman/" target="_blank"><img src="https://img.shields.io/badge/CertMan-0094F5?style=for-the-badge&logo=Qt&logoColor=white"></a>
+<a href="cryptokiman/" target="_blank"><img src="https://img.shields.io/badge/CryptokiMan-512BD4?style=for-the-badge&logo=Qt&logoColor=white"></a>
 
 # Contact
 [![tistory Badge](https://img.shields.io/badge/-tistory-000000?logo=tistory&logoColor=white&link=https://jykim74.tistory.com)](https://jykim74.tistory.com)
