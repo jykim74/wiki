@@ -7,9 +7,10 @@ repo_url: https://github.com/jykim74/wiki/
 edit_uri: blob/master/docs/
 
 theme:
-  name: mkdocs
+  name: material
   analytics:
     gtag: G-287S0CKBNS
+
 nav:
  - Home: index.md
  - BerEditor:
