@@ -59,3 +59,5 @@ By bridging specialized technology with practical tools, JKLab supports the deve
   </div>
 </div>
 </div>
+
+[![wiki](https://myhits.vercel.app/api/hit/https%3A%2F%2Fjykim74.github.io%2Fwiki?color=blue&label=wiki&size=small)](https://myhits.vercel.app)
