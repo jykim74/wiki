@@ -10,8 +10,6 @@ theme:
   name: material
   analytics:
     gtag: G-287S0CKBNS
-  features:
-    - navigation.tabs
 
 nav:
  - Home: index.md
