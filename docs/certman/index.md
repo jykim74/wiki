@@ -12,9 +12,9 @@ This is a program I made personally, so if you have any questions or bugs, pleas
 
 [[Download] CertMan Version 2.3.4 (Win64)](https://jykim74.github.io/msi/CertMan-enV234.msi "CertMan")
 
-[[Download] CertMan Version 2.3.4 (MacOS)](https://jykim74.github.io/dmg/CertManV234.dmg, "CertMan")
+[[Download] CertMan Version 2.3.4 (MacOS)](https://jykim74.github.io/dmg/CertManV234.dmg "CertMan")
 
-[[Download] CertMan Version 2.3.4 (Linux64)](https://jykim74.github.io/zip/CertManV234.zip, "CertMan")
+[[Download] CertMan Version 2.3.4 (Linux64)](https://jykim74.github.io/zip/CertManV234.zip "CertMan")
 
 If you would like to receive a license, simply write a request in [Free License Request](https::/jykim7.mycafe24.com/user_reg.php) and you can receive a trial (30-day) license.
 Of course, you can apply for a license multiple times.
