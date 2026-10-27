@@ -11,9 +11,9 @@
 
 - You can download the programs in below icon.
 
-<a href="bereditor/" target="_blank"><img src="https://img.shields.io/badge/BerEditor-006600?style=for-the-badge&logo=Qt&logoColor=white"></a>
-<a href="certman/" target="_blank"><img src="https://img.shields.io/badge/CertMan-0094F5?style=for-the-badge&logo=Qt&logoColor=white"></a>
-<a href="cryptokiman/" target="_blank"><img src="https://img.shields.io/badge/CryptokiMan-512BD4?style=for-the-badge&logo=Qt&logoColor=white"></a>
+<a href="/wiki/bereditor/" target="_blank"><img src="https://img.shields.io/badge/BerEditor-006600?style=for-the-badge&logo=Qt&logoColor=white"></a>
+<a href="/wiki/certman/" target="_blank"><img src="https://img.shields.io/badge/CertMan-0094F5?style=for-the-badge&logo=Qt&logoColor=white"></a>
+<a href="/wiki/cryptokiman/" target="_blank"><img src="https://img.shields.io/badge/CryptokiMan-512BD4?style=for-the-badge&logo=Qt&logoColor=white"></a>
 
 # Contact
 [jykim74@gmail.com](mailto:jykim74@gmail.com)
