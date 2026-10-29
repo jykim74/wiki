@@ -16,17 +16,17 @@ nav:
  - Home: index.md
  - BerEditor:
    - BerEditor: bereditor/index.md
-   - Usage: https://jykim74.github.io/bereditor_manual
+   - Manual: https://jykim74.github.io/bereditor_manual
    - Release: bereditor/release.md
    - Q&A: https://github.com/jykim74/BerEditor/discussions 
  - CertMan:
    - CertMan: certman/
-   - Usage: https://jykim74.github.io/certman_manual
+   - Manual: https://jykim74.github.io/certman_manual
    - Release: certman/release.md
    - Q&A: https://github.com/jykim74/CertMan/discussions 
  - CryptokiMan:
    - CryptokiMan: cryptokiman/
-   - Usage: https://jykim74.github.io/cryptokiman_manual
+   - Manual: https://jykim74.github.io/cryptokiman_manual
    - Release: cryptokiman/release.md
    - Q&A: https://github.com/jykim74/CryptokiMan/discussions 
  - About: about.md
