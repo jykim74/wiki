@@ -1,3 +1,7 @@
+## Version 2.3.6
+-   Fixed an error in private key decryption
+-   Added support for manual links
+
 ## Version 2.3.4
 - Fixed EDDSA-related bugs
 

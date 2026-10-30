@@ -1,3 +1,7 @@
+## Version 2.3.4
+-   Fixed an error in private key decryption
+-   Added support for manual links
+
 ## Version 2.3.2
 - Added support for PKCS#11 Version 3.2 headers
 - Added support for ML-KEM and ML-DSA key generation and signing

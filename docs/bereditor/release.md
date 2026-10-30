@@ -1,3 +1,7 @@
+## Version 2.9.8
+-   Fixed an error in private key decryption
+-   Added support for manual links
+
 ## Version 2.9.6
 - CertMan system supports loading the trust list.
 - Trust checks are performed by default during certificate validation.
