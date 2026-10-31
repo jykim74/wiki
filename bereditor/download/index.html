@@ -12,28 +12,28 @@
         <meta name="author" content="JayKim">
       
       
-        <link rel="canonical" href="https://jykim.github.io/wiki/certman/">
+        <link rel="canonical" href="https://jykim.github.io/wiki/bereditor/download/">
       
       
-        <link rel="prev" href="../bereditor/release/">
+        <link rel="prev" href="../../pki/259-Private-Keys-Public-Keys-and-Certificates/">
       
       
-        <link rel="next" href="release/">
+        <link rel="next" href="../release/">
       
       
         
       
       
-      <link rel="icon" href="../assets/images/favicon.png">
+      <link rel="icon" href="../../assets/images/favicon.png">
       <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
     
     
       
-        <title>CertMan ( X509 Cert, CRL Manager ) - JKLab WIKI</title>
+        <title>BerEditor — ASN.1, BER/DER, and KMIP TTLV Viewer - JKLab WIKI</title>
       
     
     
-      <link rel="stylesheet" href="../assets/stylesheets/main.ec1eaa64.min.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
       
       
 
@@ -52,9 +52,9 @@
       
     
     
-      <link rel="stylesheet" href="../css/extra.css">
+      <link rel="stylesheet" href="../../css/extra.css">
     
-    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
 
@@ -75,7 +75,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#license-or-not-licensed" class="md-skip">
+        <a href="#download-bereditor" class="md-skip">
           Skip to content
         </a>
       
@@ -91,7 +91,7 @@
 
 <header class="md-header md-header--shadow" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href=".." title="JKLab WIKI" class="md-header__button md-logo" aria-label="JKLab WIKI" data-md-component="logo">
+    <a href="../.." title="JKLab WIKI" class="md-header__button md-logo" aria-label="JKLab WIKI" data-md-component="logo">
       
   
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
@@ -111,7 +111,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              CertMan ( X509 Cert, CRL Manager )
+              BerEditor — ASN.1, BER/DER, and KMIP TTLV Viewer
             
           </span>
         </div>
@@ -201,7 +201,7 @@
 
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href=".." title="JKLab WIKI" class="md-nav__button md-logo" aria-label="JKLab WIKI" data-md-component="logo">
+    <a href="../.." title="JKLab WIKI" class="md-nav__button md-logo" aria-label="JKLab WIKI" data-md-component="logo">
       
   
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
@@ -231,7 +231,7 @@
   
   
     <li class="md-nav__item">
-      <a href=".." class="md-nav__link">
+      <a href="../.." class="md-nav__link">
         
   
   
@@ -305,7 +305,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../pki/130-Public-Key-Infrastructure-PKI-Concepts/" class="md-nav__link">
+      <a href="../../pki/130-Public-Key-Infrastructure-PKI-Concepts/" class="md-nav__link">
         
   
   
@@ -333,7 +333,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../pki/136-A-Story-About-Digital-Signatures-and-Certificates/" class="md-nav__link">
+      <a href="../../pki/136-A-Story-About-Digital-Signatures-and-Certificates/" class="md-nav__link">
         
   
   
@@ -361,7 +361,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../pki/259-Private-Keys-Public-Keys-and-Certificates/" class="md-nav__link">
+      <a href="../../pki/259-Private-Keys-Public-Keys-and-Certificates/" class="md-nav__link">
         
   
   
@@ -393,18 +393,20 @@
       
   
   
+    
   
   
+  
     
     
     
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
         
           
           <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
@@ -425,7 +427,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_3">
             <span class="md-nav__icon md-icon"></span>
             
@@ -440,10 +442,37 @@
                 
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../bereditor/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Download
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   
@@ -459,6 +488,59 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#license" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        License
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#help-and-support" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Help and support
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#screenshot" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Screenshot
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -499,7 +581,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../bereditor/release/" class="md-nav__link">
+      <a href="../release/" class="md-nav__link">
         
   
   
@@ -559,20 +641,18 @@
       
   
   
-    
   
   
-  
     
     
     
     
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
         
           
           <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
@@ -593,7 +673,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_4">
             <span class="md-nav__icon md-icon"></span>
             
@@ -608,35 +688,10 @@
                 
   
   
-    
   
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-      
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Download
-  
-
-    
-  </span>
-  
-  
-
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../../certman/download/" class="md-nav__link">
         
   
   
@@ -652,35 +707,6 @@
   
 
       </a>
-      
-        
-
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#license-or-not-licensed" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        License or not licensed
-      
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-      
     </li>
   
 
@@ -721,7 +747,7 @@
   
   
     <li class="md-nav__item">
-      <a href="release/" class="md-nav__link">
+      <a href="../../certman/release/" class="md-nav__link">
         
   
   
@@ -831,7 +857,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../cryptokiman/" class="md-nav__link">
+      <a href="../../cryptokiman/download/" class="md-nav__link">
         
   
   
@@ -887,7 +913,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../cryptokiman/release/" class="md-nav__link">
+      <a href="../../cryptokiman/release/" class="md-nav__link">
         
   
   
@@ -950,7 +976,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../about/" class="md-nav__link">
+      <a href="../../about/" class="md-nav__link">
         
   
   
@@ -987,6 +1013,8 @@
   
   
   
+    
+  
   
     <label class="md-nav__title" for="__toc">
       <span class="md-nav__icon md-icon"></span>
@@ -995,10 +1023,32 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#license-or-not-licensed" class="md-nav__link">
+  <a href="#license" class="md-nav__link">
     <span class="md-ellipsis">
       
-        License or not licensed
+        License
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#help-and-support" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Help and support
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#screenshot" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Screenshot
       
     </span>
   </a>
@@ -1025,63 +1075,44 @@
   
 
 
-  <h1>Download</h1>
-
-<p>This program is a management program that generates X.509 certificates, CRLs, CSRs and key pairs.</p>
-<p>Supported algorithms are RSA and ECDSA algorithms.
-The file can be downloaded from this page link (size is about 30M)
-This is a program I made personally, so if you have any questions or bugs, please Use <a href="https://groups.google.com/g/certman," title="Google Groups">Google Groups</a></p>
-<p><a href="https://jykim74.github.io/msi/CertMan-enV236.msi" title="CertMan">[Download] CertMan Version 2.3.6 (Win64)</a></p>
-<p><a href="https://jykim74.github.io/dmg/CertManV236.dmg" title="CertMan">[Download] CertMan Version 2.3.6 (MacOS)</a></p>
-<p><a href="https://jykim74.github.io/zip/CertManV236.zip" title="CertMan">[Download] CertMan Version 2.3.6 (Linux64)</a></p>
-<p>If you would like to receive a license, simply write a request in <a href="https::/jykim7.mycafe24.com/user_reg.php">Free License Request</a> and you can receive a trial (30-day) license.
-Of course, you can apply for a license multiple times.</p>
-<p>This is a <a href="https://jykim74.tistory.com/category/Manual/CertMan" title="CertMan Manual">Manual link</a>  to the Korean manual page.
-Although it is lacking, the manual page supports a translator.</p>
-<h2 id="license-or-not-licensed">License or not licensed</h2>
+<h1 id="download-bereditor">Download BerEditor</h1>
+<p>BerEditor is a desktop tool for viewing and editing ASN.1 BER/DER data and KMIP TTLV messages. It also includes utilities for PKI and cryptography work, such as encryption and decryption, signing and verification, OTP generation, big-number calculations, and OID lookup.</p>
+<p>The installer is approximately 29 MB. Choose the download for your operating system:</p>
 <table>
 <thead>
 <tr>
-<th>classification</th>
-<th>License Version</th>
-<th>Unlicensed Version</th>
+<th>Platform</th>
+<th>Version</th>
+<th>Download</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Support Algorithm</td>
-<td>RSA, ECDSA, DSA, EdDSA, SM2</td>
-<td>RSA</td>
+<td>Windows 64-bit</td>
+<td>2.9.8</td>
+<td><a href="https://jykim74.github.io/msi/BerEditor-enV298.msi">Download BerEditor for Windows</a></td>
 </tr>
 <tr>
-<td>Log Tab</td>
-<td>O</td>
-<td>X</td>
+<td>macOS</td>
+<td>2.9.8</td>
+<td><a href="https://jykim74.github.io/dmg/BerEditorV298.dmg">Download BerEditor for macOS</a></td>
 </tr>
 <tr>
-<td>DB Password change</td>
-<td>O</td>
-<td>X</td>
-</tr>
-<tr>
-<td>LDAP Publish</td>
-<td>O</td>
-<td>X</td>
-</tr>
-<tr>
-<td>Certificate Renew</td>
-<td>O</td>
-<td>X</td>
-</tr>
-<tr>
-<td>HSM PKCS11</td>
-<td>O</td>
-<td>X</td>
+<td>Linux 64-bit</td>
+<td>2.9.8</td>
+<td><a href="https://jykim74.github.io/zip/BerEditorV298.zip">Download BerEditor for Linux</a></td>
 </tr>
 </tbody>
 </table>
-<p>[Screen Shot]
-<img alt="certman_eng" src="https://user-images.githubusercontent.com/23622335/231696165-fe011640-a552-4a33-a483-43d4ec50afa4.png" /></p>
+<h2 id="license">License</h2>
+<p>To request a license, submit a request through the <a href="https://jykim7.mycafe24.com/user_reg.php">Free License Request page</a>. A 30-day trial license is available, and you may submit another request if needed.</p>
+<h2 id="help-and-support">Help and support</h2>
+<ul>
+<li>Visit the <a href="https://jykim74.tistory.com/category/Manual/BerEditor">BerEditor manual</a>. The manual is in Korean and can be read with a translation tool.</li>
+<li>For questions or bug reports, visit the <a href="https://groups.google.com/g/bereditor">BerEditor Google Group</a>.</li>
+</ul>
+<h2 id="screenshot">Screenshot</h2>
+<p><img alt="BerEditor application screenshot" src="https://user-images.githubusercontent.com/23622335/231694027-2c105393-a052-4008-a5d9-082437ce1744.png" /></p>
 
 
 
@@ -1138,10 +1169,10 @@ Although it is lacking, the manual page supports a translator.</p>
     
       
       
-      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": [], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
     
     
-      <script src="../assets/javascripts/bundle.d7400e89.min.js"></script>
+      <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
       
     
   </body>
