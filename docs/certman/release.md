@@ -1,3 +1,5 @@
+# CertMan Update Release
+
 ## Version 2.3.6
 -   Fixed an error in private key decryption
 -   Added support for manual links
