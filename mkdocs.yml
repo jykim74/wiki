@@ -14,6 +14,11 @@ theme:
 
 nav:
  - Home: index.md
+ - PKI:
+   - PKI Concept: pki/130-Public-Key-Infrastructure-PKI-Concepts.md
+   - Certificate and Digial Signature: pki/136-A-Story-About-Digital-Signatures-and-Certificates.md
+   - PrivateKey, PublicKey, Certificate: pki/259-Private-Keys-Public-Keys-and-Certificates.md
+
  - BerEditor:
    - BerEditor: bereditor/index.md
    - Manual: https://jykim74.github.io/bereditor_manual
