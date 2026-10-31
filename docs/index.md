@@ -29,7 +29,7 @@ By bridging specialized technology with practical tools, JKLab supports the deve
       <div class="card-body">
         <h3 class="card-title">BerEditor</h3>
         <p class="card-text">
-<a href="bereditor/">BerEditor</a> is an integrated GUI tool designed to support developers working with PKI and cryptographic technologies. It facilitates the development of security protocols and troubleshooting by analyzing and validating ASN.1 encoded data, digital certificates, digital signatures, and various other PKI-related data.
+<a href="bereditor/download/">BerEditor</a> is an integrated GUI tool designed to support developers working with PKI and cryptographic technologies. It facilitates the development of security protocols and troubleshooting by analyzing and validating ASN.1 encoded data, digital certificates, digital signatures, and various other PKI-related data.
         </p>
       </div>
     </div>
@@ -42,7 +42,7 @@ By bridging specialized technology with practical tools, JKLab supports the deve
       <div class="card-body">
         <h3 class="card-title">CertMan</h3>
         <p class="card-text">
-<a href="certman/">CertMan</a> is a certificate management tool that supports the management and verification of digital certificates and Public Key Infrastructure (PKI). It enables users to examine certificate issuance details, validity periods, public keys, extension fields, and certificate chains, while facilitating the efficient execution of technical tasks related to certificate management.
+<a href="certman/download/">CertMan</a> is a certificate management tool that supports the management and verification of digital certificates and Public Key Infrastructure (PKI). It enables users to examine certificate issuance details, validity periods, public keys, extension fields, and certificate chains, while facilitating the efficient execution of technical tasks related to certificate management.
         </p>
       </div>
     </div>
@@ -52,7 +52,7 @@ By bridging specialized technology with practical tools, JKLab supports the deve
       <div class="card-body">
         <h3 class="card-title">CryptokiMan</h3>
         <p class="card-text">
-<a href="cryptokiman/">CryptokiMan</a> is a tool designed to support the management and development of cryptographic devices and tokens based on the PKCS#11 standard. It interfaces with Hardware Security Modules (HSMs), smart cards, and PKCS#11-compliant cryptographic modules, enabling users to verify and test cryptographic objects, key pairs, cryptographic operations, and digital signature functions.
+<a href="cryptokiman/download/">CryptokiMan</a> is a tool designed to support the management and development of cryptographic devices and tokens based on the PKCS#11 standard. It interfaces with Hardware Security Modules (HSMs), smart cards, and PKCS#11-compliant cryptographic modules, enabling users to verify and test cryptographic objects, key pairs, cryptographic operations, and digital signature functions.
         </p>
       </div>
     </div>
