@@ -1,7 +1,5 @@
 # A Story About Digital Signatures and Certificates
 
-*PKI / General Information · May 3, 2023*
-
 Digital signatures and certificates are technical topics in public key infrastructure (PKI). Here is a plain-language explanation.
 
 ## The seal certificate analogy

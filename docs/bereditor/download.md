@@ -9,8 +9,6 @@ category: Software
 
 BerEditor is a desktop tool for viewing and editing ASN.1 BER/DER data and KMIP TTLV messages. It also includes utilities for PKI and cryptography work, such as encryption and decryption, signing and verification, OTP generation, big-number calculations, and OID lookup.
 
-The installer is approximately 29 MB. Choose the download for your operating system:
-
 | Platform | Version | Download |
 | --- | --- | --- |
 | Windows 64-bit | 2.9.8 | [Download BerEditor](https://jykim74.github.io/msi/BerEditor-enV298.msi) |

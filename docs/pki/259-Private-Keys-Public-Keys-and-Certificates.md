@@ -1,7 +1,5 @@
 # Private Keys, Public Keys, and Certificates
 
-*PKI / General Information · January 24, 2024*
-
 When you work with a PKI system, you often encounter three terms: **private key**, **public key**, and **certificate**. They are fundamental to digital signatures. Here is a simple explanation.
 
 In short:
@@ -10,7 +8,7 @@ In short:
 - The **public key** verifies that signature.
 - A **certificate** vouches for the identity associated with a public key.
 
-For an introduction to digital signatures and certificates, see [A Story About Digital Signatures and Certificates](../136/136-A-Story-About-Digital-Signatures-and-Certificates.md).
+For an introduction to digital signatures and certificates, see [Digital Signatures and Certificates](136-A-Story-About-Digital-Signatures-and-Certificates.md).
 
 ![Illustration comparing a digital signature and a certificate](../images/sign_cert.png)
 

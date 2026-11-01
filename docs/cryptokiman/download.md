@@ -5,7 +5,7 @@ tags: [Cryptoki, CryptokiMan, ECDSA, HSM, PKCS#11, PKI, RSA]
 category: Software
 ---
 
-CryptokiMan is a desktop application for managing and testing PKCS#11 Cryptoki modules. The packages below are approximately 30 MB each.
+CryptokiMan is a desktop application for managing and testing PKCS#11 Cryptoki modules.
 
 ## Download CryptokiMan 2.3.4
 

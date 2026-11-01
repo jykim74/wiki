@@ -22,7 +22,7 @@ nav:
  - Home: index.md
  - PKI:
    - PKI Concept: pki/130-Public-Key-Infrastructure-PKI-Concepts.md
-   - Certificate and Digial Signature: pki/136-A-Story-About-Digital-Signatures-and-Certificates.md
+   - Digial Signatures and Certificates: pki/136-A-Story-About-Digital-Signatures-and-Certificates.md
    - PrivateKey, PublicKey, Certificate: pki/259-Private-Keys-Public-Keys-and-Certificates.md
 
  - BerEditor: 
@@ -43,12 +43,14 @@ nav:
    - Release: cryptokiman/release.md
    - Q&A: https://github.com/jykim74/CryptokiMan/discussions 
 
- - Get a free license: https://jykim74.mycafe24.com/user_reg.php?lang=en
+ - License:
+   - Get a free license: https://jykim74.mycafe24.com/user_reg.php?lang=en
+   - Applying the license: pki/273-Get-a-Free-License.md 
 
  - About: about.md
 
 extra_css:
   - css/extra.css
 
-copyright: Copyright &copy; 2026 <a href="https://jykim74.tistory.com">JayKim</a>, Maintained by the <a href="/about/release-notes/#maintenance-team">JKLab</a>.
+copyright: Copyright &copy; 2016 - 2026 <a href="mailto:jykim74@gmail.com">JayKim</a>, Maintained by the <a href="https://jykim74.github.io/wiki">JKLab</a>.
 

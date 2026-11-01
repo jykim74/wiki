@@ -1,7 +1,5 @@
 # Public Key Infrastructure (PKI): Concepts
 
-*PKI / General Information · April 27, 2023*
-
 The term **PKI** appears in many fields. After working with it for a long time, I have come to think of PKI as a component that supports many different systems. It is rarely used on its own, but it turns up in many places. This article offers a brief overview of the concept.
 
 ## 1. What is PKI?
