@@ -1,7 +1,7 @@
-site_name: JKLab WIKI
+site_name: JKLab
 site_url: https://jykim.github.io/wiki
-site_description: PKI Tools
 site_author: JayKim
+site_description: JKLab develops BerEditor, CertMan, and CryptokiMan for analysis of PKI technology.
 
 repo_url: https://github.com/jykim74/wiki/
 edit_uri: blob/master/docs/
@@ -47,7 +47,7 @@ nav:
    - Get a free license: https://jykim74.mycafe24.com/user_reg.php?lang=en
    - Applying the license: pki/273-Get-a-Free-License.md 
 
- - About: about.md
+ - About me: about.md
 
 extra_css:
   - css/extra.css
