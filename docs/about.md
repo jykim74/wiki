@@ -15,6 +15,9 @@
 <a href="/wiki/cryptokiman/" target="_blank"><img src="https://img.shields.io/badge/CryptokiMan-512BD4?style=for-the-badge&logo=Qt&logoColor=white"></a>
 
 # Contact
+
+For technical support or any questions, please contact us at the email address below.
+
 Email: [jykim74@gmail.com](mailto:jykim74@gmail.com)
 
 [![tistory Badge](https://img.shields.io/badge/-tistory-000000?logo=tistory&logoColor=white&link=https://jykim74.tistory.com)](https://jykim74.tistory.com)
